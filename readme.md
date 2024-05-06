@@ -3,7 +3,7 @@
 api's
 [Youtube chat](https://developers.google.com/youtube/v3/live/docs/liveChatMessages)
 [Twitch chat](https://dev.twitch.tv/docs/api/reference)
-[Twitch chat](https://dev.twitch.tv/docs/irc/)
+[Twitch irc](https://dev.twitch.tv/docs/irc/)
 
 ## Desired setup experience
 1. Input api keys for the desired platforms
